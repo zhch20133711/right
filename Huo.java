@@ -12,6 +12,7 @@ public class Huo {
     public static void main(String[] args) {
         String quanxian[]={"1000","11111100","1001010100"};
         System.out.println("最终权限是："+quanxian(quanxian));
+        
     }
     public static String quanxian(String[] quanxian){
         //确定数组的长度
